@@ -10,7 +10,7 @@ My career journey began as a marketer, where I spent a vibrant 10 years honing m
 > 
 After earning my Master’s degree in Design Management in the UK, I joined Nestlé and Mars as an Innovation Manager in Greater China. Here, I spearheaded exciting innovation projects, blending creativity with strategic thinking to bring fresh ideas to life.
 >
-" During my time in Mainland China, I took a leap into entrepreneurship by launching my own startup, dedicated to helping organizations drive their innovation initiatives. For three years, I embraced the challenges and triumphs of the startup world, fueling my passion for transformative ideas."
+During my time in Mainland China, I took a leap into entrepreneurship by launching my own startup, dedicated to helping organizations drive their innovation initiatives. For three years, I embraced the challenges and triumphs of the startup world, fueling my passion for transformative ideas.
 >
 As a experienced Design Thinking coach, I thrive on running and facilitating workshops, empowering teams to think outside the box and embrace innovation. Currently, I’m supporting a local developer in their digital and cultural transformation journey, leveraging my expertise to foster a dynamic and adaptive workforce.
 >
