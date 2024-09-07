@@ -16,7 +16,8 @@ As a experienced Design Thinking coach, I thrive on running and facilitating wor
 >
 In addition to my practical experience, I hold a Prosci Change Management certification, equipping me with the tools to guide organizations through change effectively. Recently, I’ve ventured into the world of data analytics, eager to harness scientific and computational insights to drive innovation.
 >
-### My personal life
+>
+#### My personal life
 Outside of my professional life, I’m an outdoor enthusiast who loves hiking, skiing, and traveling. I also have a creative side, indulging in drawing and exploring aesthetics. My diverse interests and experiences fuel my commitment to innovation and continuous growth.
 >
 > 
