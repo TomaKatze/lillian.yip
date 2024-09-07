@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-## About me (h2)
+## About me 
 
 ### My innovation and transformation journey
 > My career journey began as a marketer, where I spent a vibrant 10 years honing my skills in brand management and marketing for consumer goods and retail in the bustling market of Hong Kong. This foundational experience ignited my passion for innovation and led me to make a bold shift in my career.
